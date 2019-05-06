@@ -8,7 +8,7 @@ $resultado = mysqli_query($conexion, $sql);
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Modelo Movy Rute</title>
+	<title>Movy Rute</title>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 	<link rel="stylesheet"  href="css/estilos.css">
 </head>
